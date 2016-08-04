@@ -1,0 +1,28 @@
+_repo: Paradise-Lost_26
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+description: ''
+gutenberg_issued: '1992-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eve (Biblical figure) -- Poetry'
+- !lcsh 'Adam (Biblical figure) -- Poetry'
+- !lcsh 'Bible. Genesis -- History of Biblical events -- Poetry'
+- !lcsh 'Fall of man -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Paradise Lost
+url: http://www.gutenberg.org/ebooks/26
